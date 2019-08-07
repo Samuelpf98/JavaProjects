@@ -1,0 +1,25 @@
+CS4013 Vending Machine Assignment
+
+- Luke Maher		[17223563]
+- Samuel Foley		[17237874]
+- Lennart Mantel	[17207266]
+- Carl Frohburg		[17237823]
+----------------------------------------------
+
+INSTRUCTIONS FOR EXECUTION
+----------------------------------------------
+
+1] Set your working directory to the 'Executable' folder found alongside this txt file.
+   (Alternatively copy the contents of the 'Executable' file to your chosen working directory)
+
+2] Run the program from the command line using the command 'java -jar "x"', x being the address of the CS4013_Vending_Assignment.jar file within the working directory.
+   (e.g. if the CS4013_Vending_Assignment.jar file is at the address C:\Users\User\Desktop\Workspace\Executable\CS4013_Vending_Assignment.jar, 
+   run java -jar "C:\Users\User\Desktop\Workspace\Executable\CS4013_Vending_Assignment.jar")
+----------------------------------------------
+
+NOTES
+----------------------------------------------
+
+- Passcodes for operator login can be found in the operators.txt file in the 'Executable' folder
+- The java source files in the Source Folder can all be compliled at once by by compiling the VendingMachineGUI file
+
